@@ -1,10 +1,10 @@
 - 👋 Hi, I’m omjee
 - 👀 I’m interested in Java developer
 - 🌱 I’m currently learning btech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️
+- 📫
+- 😄
+- ⚡
 
 <!---
 omjee123/omjee123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
