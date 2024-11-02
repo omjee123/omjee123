@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGVTc1RGyA/vKggegKeClaGjN0CfN3-dQ/edit?referrer=banners-landing-page)
+![logo](https://www.canva.com/design/DAGVTc1RGyA/vKggegKeClaGjN0CfN3-dQ/edit?utm_content=DAGVTc1RGyA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm omjee123</h1>
 <h3 align="center">A passionate Java developer from India.</h3>
 <img align="right" width="400px"
