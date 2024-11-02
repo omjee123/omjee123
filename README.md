@@ -1,4 +1,4 @@
-![logo]("C:\Users\oM jEE raY\Downloads\om jee ray (1).png")
+![logo](om jee ray.png)
 <h1 align="center">Hi 👋, I'm omjee123</h1>
 <h3 align="center">A passionate Java developer from India.</h3>
 <img align="right" width="400px"
