@@ -4,7 +4,7 @@
 <img align="right" width="400px"
  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 📫 How to reach me **jeeom30@123gmil.com*
+- 📫 How to reach me **jeeom30@gmail.com*
 
 - 📄 Know about my experiences [file:///C:/Users/oM%20jEE%20raY/Desktop/CV.pdf](file:///C:/Users/oM%20jEE%20raY/Desktop/CV.pdf)
 
